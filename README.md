@@ -50,6 +50,8 @@
   ### Etc
   <!--AWS-->
   <img src="https://img.shields.io/badge/aws-222F3E?style=flat-square&logo=aws&logoColor=white"/>
+  <!--Git hub-->
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
   <br/>
   
   ## 🤔 Github Stats
