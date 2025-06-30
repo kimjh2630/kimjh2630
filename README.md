@@ -22,6 +22,7 @@
   ### Framework
   <!--Streamlit-->
   <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/aws-FF4B4B?style=flat-square&logo=aws&logoColor=white"/>
   <br/>
   
   ## 🤔 Github Stats
