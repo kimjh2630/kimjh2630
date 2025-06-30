@@ -18,7 +18,7 @@
   
   ### IDE
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS Code-2BB6F6?style=flat-square&logo=VS Code&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
   <br/>
 
