@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--Dart-->
   <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <!--Java-->
+  <img src="https://img.shields.io/badge/Java-1662BD?style=flat-square&logo=Java&logoColor=white"/>
   <br/>
   
   ### IDE
